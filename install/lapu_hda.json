@@ -1,0 +1,17 @@
+
+{
+    "path": "$LAPU;$LAPU_HDA", 
+    "load_package_once": true, 
+    
+    "env": [
+        {
+            "LAPU_TEMP_HIP": "G:/lapu_hda/temp_hip",
+            "LAPU_HDA": "G:/lapu_hda/hdas",
+            "LAPU": "G:/lapu_hda",
+        },
+        {
+            "HOUDINI_OTLSCAN_PATH": 
+            "$LAPU/hdas",
+        },
+    ],
+}
