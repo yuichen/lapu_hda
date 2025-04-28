@@ -1,11 +1,11 @@
 
 {
-    "path": "$lapu_hda", 
+    "path": "$lapu_Hda", 
     "load_package_once": true, 
     
     "env": [
         {
-            "Alfx_HDA": "G:/lapu_hda",
+            "lapu_hda": "G:/lapu_hda",
         },
         {
             "HOUDINI_OTLSCAN_PATH": 
