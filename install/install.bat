@@ -3,7 +3,7 @@ REM 设置源文件路径
 set SOURCE_FILE="%~dp0lapu_hda.json"
 
 REM 设置目标文件夹路径（无需加文件名）
-set "HOUDINI_VERSION=houdini19.0"
+set "HOUDINI_VERSION=houdini20.5"
 set DEST_FOLDER="C:\Users\%USERNAME%\Documents\%HOUDINI_VERSION%\packages"
 
 REM 执行复制操作
